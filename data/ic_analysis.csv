@@ -1,0 +1,6 @@
+model,alphabet_size,effective_length,ic_value,english_expected,random_expected,interpretation
+raw_24_symbols,24,87,0.0585,0.0667,0.0417,Above random but below English — suggests structure beyond simple substitution
+direction_collapse_8,8,87,0.1004,0.0667,0.1250,High IC under 8-symbol model — confirms homophonic structure
+null_stripped_20,20,83,0.0632,0.0667,0.0500,Approaches English IC after null removal — strongest evidence
+null_stripped_direction_8,8,83,0.1087,0.0667,0.1250,Very high after null removal — consistent with 8-real-symbol hypothesis
+singleton_removed,20,83,0.0632,0.0667,0.0500,Removing 4 singletons raises IC toward English

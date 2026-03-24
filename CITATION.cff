@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+title: "The Dorabella Cipher, Decoded"
+message: "If you use or reference this work, please cite it as below."
+type: article
+authors:
+  - family-names: Daugherty
+    given-names: Bryan
+  - family-names: Ward
+    given-names: Gregory
+  - family-names: Ryan
+    given-names: Shawn
+date-released: "2026-03-23"
+url: "https://github.com/OriginNeuralAI/The_Dorabella_Cipher-DECODED"
+repository-code: "https://github.com/OriginNeuralAI/The_Dorabella_Cipher-DECODED"
+license: CC-BY-NC-ND-4.0
+keywords:
+  - dorabella-cipher
+  - cryptanalysis
+  - edward-elgar
+  - enigma-variations
+  - historical-cryptography
+abstract: >-
+  Computational cryptanalysis of Edward Elgar's 1897 Dorabella Cipher.
+  An 11-phase attack engine evaluating 103 million mapping candidates
+  converges to a single, stable decryption across three independent runs.
+  The locked mapping reveals Elgar was writing to Dora Penny about a
+  musical theme — the future Variation X of the Enigma Variations —
+  eighteen months before the canonical composition date.

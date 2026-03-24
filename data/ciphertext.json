@@ -1,0 +1,38 @@
+{
+  "title": "Dorabella Cipher — Ciphertext Data",
+  "source": "Hauer et al. 2021 machine-readable transcription",
+  "length": 87,
+  "alphabet_size": 24,
+  "symbols_used": 20,
+  "encoding": "8 orientations (A-H) x 3 arc counts (1-3) = 24 symbols",
+  "coset_formula": "coset_index = orientation_index * 3 + (arc_count - 1)",
+  "hauer_glyphs": [
+    "A2","E3","B2","A3","A1","C2","G1","A3","D1","H2",
+    "B3","F2","F1","B1","F2","C3","F2","F2","C2","E3",
+    "E3","F2","B1","H1","H2","H1","C1","B3","F3","G1",
+    "F2","G1","C2","H1","A3","D1","D2","A3","B2","F2",
+    "F2","B2","C2","C1","F1","G1","F2","B3","F2","C2",
+    "G2","F3","F1","B1","H1","D1","D1","H1","B3","F3",
+    "B2","F3","C2","G2","F3","B2","B1","G2","G3","C1",
+    "F3","B2","F2","C2","G2","F1","F3","C1","A3","E3",
+    "C1","F3","C2","A3","B1","H1","A3"
+  ],
+  "coset_indices": [
+     1, 14,  4,  2,  0,  7, 18,  2,  9, 22,
+     5, 16, 15,  3, 16,  8, 16, 16,  7, 14,
+    14, 16,  3, 21, 22, 21,  6,  5, 17, 18,
+    16, 18,  7, 21,  2,  9, 10,  2,  4, 16,
+    16,  4,  7,  6, 15, 18, 16,  5, 16,  7,
+    19, 17, 15,  3, 21,  9,  9, 21,  5, 17,
+     4, 17,  7, 19, 17,  4,  3, 19, 20,  6,
+    17,  4, 16,  7, 19, 15, 17,  6,  2, 14,
+     6, 17,  7,  2,  3, 21,  2
+  ],
+  "line_breaks": [
+    {"line": 1, "start": 0, "end": 27},
+    {"line": 2, "start": 27, "end": 53},
+    {"line": 3, "start": 53, "end": 87}
+  ],
+  "unused_coset_indices": [11, 13, 12, 23],
+  "unused_symbols": ["D3", "E2", "E1", "H3"]
+}
