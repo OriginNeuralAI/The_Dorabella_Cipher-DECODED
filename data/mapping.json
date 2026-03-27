@@ -1,0 +1,37 @@
+{
+  "title": "Dorabella Cipher — Locked Mapping",
+  "convergence": "Identical result at 7M, 25M, and 103M evaluations",
+  "pinned_count": 16,
+  "null_count": 4,
+  "unused_count": 4,
+  "mapping": [
+    {"symbol": "F1", "coset": 15, "letter": "T", "occurrences": 4, "confidence": "LOCKED", "note": "THEME"},
+    {"symbol": "B1", "coset":  3, "letter": "H", "occurrences": 5, "confidence": "LOCKED", "note": "THEME, adjacent to YOUR"},
+    {"symbol": "F2", "coset": 16, "letter": "E", "occurrences": 11, "confidence": "LOCKED", "note": "Most frequent symbol"},
+    {"symbol": "C3", "coset":  8, "letter": "M", "occurrences": 1, "confidence": "LOCKED", "note": "THEME"},
+    {"symbol": "C2", "coset":  7, "letter": "N", "occurrences": 8, "confidence": "LOCKED", "note": ""},
+    {"symbol": "H1", "coset": 21, "letter": "O", "occurrences": 6, "confidence": "LOCKED", "note": "YOUR"},
+    {"symbol": "C1", "coset":  6, "letter": "U", "occurrences": 5, "confidence": "LOCKED", "note": "YOUR"},
+    {"symbol": "B3", "coset":  5, "letter": "R", "occurrences": 4, "confidence": "LOCKED", "note": ""},
+    {"symbol": "B2", "coset":  4, "letter": "S", "occurrences": 6, "confidence": "LOCKED", "note": ""},
+    {"symbol": "A3", "coset":  2, "letter": "A", "occurrences": 7, "confidence": "LOCKED", "note": ""},
+    {"symbol": "G2", "coset": 19, "letter": "D", "occurrences": 4, "confidence": "LOCKED", "note": ""},
+    {"symbol": "G1", "coset": 18, "letter": "G", "occurrences": 4, "confidence": "LOCKED", "note": ""},
+    {"symbol": "D1", "coset":  9, "letter": "F", "occurrences": 4, "confidence": "LOCKED", "note": "FOR"},
+    {"symbol": "F3", "coset": 17, "letter": "I", "occurrences": 8, "confidence": "LOCKED", "note": "IS, IN"},
+    {"symbol": "H2", "coset": 22, "letter": "Y", "occurrences": 2, "confidence": "LOCKED", "note": "YOUR"},
+    {"symbol": "E3", "coset": 14, "letter": "L", "occurrences": 4, "confidence": "LOCKED", "note": "Stable across all runs"}
+  ],
+  "nulls": [
+    {"symbol": "A1", "coset": 0, "occurrences": 1, "note": "Singleton — null padding"},
+    {"symbol": "A2", "coset": 1, "occurrences": 1, "note": "Singleton — null padding"},
+    {"symbol": "D2", "coset": 10, "occurrences": 1, "note": "Singleton — null padding"},
+    {"symbol": "G3", "coset": 20, "occurrences": 1, "note": "Singleton — null padding"}
+  ],
+  "unused": [
+    {"symbol": "D3", "coset": 11, "note": "Never appears in ciphertext"},
+    {"symbol": "E1", "coset": 12, "note": "Never appears in ciphertext"},
+    {"symbol": "E2", "coset": 13, "note": "Never appears in ciphertext"},
+    {"symbol": "H3", "coset": 23, "note": "Never appears in ciphertext"}
+  ]
+}

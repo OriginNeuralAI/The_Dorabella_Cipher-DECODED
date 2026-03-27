@@ -1,0 +1,21 @@
+Copyright (c) 2026 Bryan Daugherty / Origin Neural AI. All rights reserved.
+
+This repository contains published research results and verification tools for
+the computational cryptanalysis of the Dorabella Cipher. Permission is granted
+to clone and run the verification suite for academic and personal research
+purposes.
+
+THE FOLLOWING ARE EXPRESSLY PROHIBITED WITHOUT PRIOR WRITTEN CONSENT:
+  - Commercial use of any code, data, or findings
+  - Redistribution or republication of the source code
+  - Creation of derivative works
+  - Use in training of machine learning models
+  - Patent filings based on methods described or implied herein
+
+The attack methodology used to produce these results is the subject of
+pending patent applications (US 63/963,647; 64/014,358; 64/015,157) and
+is NOT included in this repository.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY
+CLAIM, DAMAGES OR OTHER LIABILITY.

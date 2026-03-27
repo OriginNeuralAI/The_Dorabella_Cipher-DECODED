@@ -1,0 +1,39 @@
+# Rust
+/target/
+**/*.rs.bk
+Cargo.lock
+
+# OS
+.DS_Store
+Thumbs.db
+Desktop.ini
+*.swp
+*.swo
+*~
+
+# Editors
+.idea/
+.vscode/
+*.sublime-workspace
+*.sublime-project
+
+# Build artifacts
+*.o
+*.d
+*.rlib
+*.rmeta
+*.dylib
+*.so
+*.dll
+*.exe
+
+# LaTeX aux
+*.aux
+*.log
+*.out
+*.toc
+*.synctex.gz
+*.fls
+*.fdb_latexmk
+*.bbl
+*.blg

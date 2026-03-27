@@ -1,0 +1,28 @@
+Dorabella Cipher — Decoded Plaintext
+=====================================
+
+Locked Mapping (converged at 7M, 25M, and 103M evaluations)
+
+WITH NULLS (87 characters, nulls marked as _):
+_LSA_NGAFYRETHEMEENLLEHOYOURIGEGNOAF_ASEESNUTGERENDITHOFFORISINDISHD_UISENDTIUALUINAHOA
+
+NULL POSITIONS: 0, 4, 36, 68
+
+STRIPPED (83 characters, nulls removed):
+LSANGAFYRETHEMEENLLEHOYOURIGEGNOAFASEESNUTGERENDITHOFFORISINDISHDUISENDTIUALUINAHOA
+
+KEY WORD POSITIONS:
+  THEME    — positions 12-16
+  YOUR     — positions 23-26  (via Y+O+U+R)
+  FOR      — positions 45-47  (via F+O+R)
+  IS IN    — positions 48-51
+  FYRE     — positions 8-11   (archaic "fire")
+  END      — positions 41-43
+  NUT      — positions 37-39  (Victorian slang)
+  SEND     — positions 72-75
+  AN       — positions 2-3
+
+GREEDY DICTIONARY SEGMENTATION (Victorian English):
+L S AN G A FYRE THEME EN L LE HO YOUR I GEG NO A F ASE
+ES NUT GER END IT HO F FOR IS IN DISH D U IS END
+TI U A L U IN A HO A
